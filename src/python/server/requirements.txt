@@ -1,0 +1,6 @@
+bottle==0.12.4
+mongoengine==0.8.7
+pymongo==2.6.3
+python-dateutil==2.1
+virtualenv==1.10.1
+wsgiref==0.1.2
